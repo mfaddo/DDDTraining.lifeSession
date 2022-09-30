@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DDDTraining.lifeSession.Domain\DDDTraining.lifeSession.Domain.csproj" />
+    <ProjectReference Include="..\DDDTraining.lifeSession.Framework\DDDTraining.lifeSession.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
